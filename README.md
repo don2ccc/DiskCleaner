@@ -282,7 +282,6 @@ dist/DiskCleaner.exe
 
 - **Bug 报告**：[提交 Issue](https://github.com/don2ccc/DiskCleaner/issues)
 - **功能建议**：欢迎在 Issues 中讨论
-- **联系作者**：[YOUR_EMAIL]
 
 ---
 
