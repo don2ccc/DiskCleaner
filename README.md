@@ -289,6 +289,6 @@ dist/DiskCleaner.exe
 
 **如果这个项目帮到了你，请给一个 ⭐️ Star！**
 
-Made with ❤️ by [YOUR_NAME]
+Made with ❤️ by don2ccc
 
 </div>
