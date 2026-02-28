@@ -96,7 +96,7 @@ AI 分析结果示例：
 
 ```bash
 # 1. 克隆仓库
-git clone https://github.com/YOUR_USERNAME/DiskCleaner.git
+git clone https://github.com/don2ccc/DiskCleaner.git
 cd DiskCleaner
 
 # 2. 双击运行
@@ -280,7 +280,7 @@ dist/DiskCleaner.exe
 
 ## 💬 反馈与支持
 
-- **Bug 报告**：[提交 Issue](https://github.com/YOUR_USERNAME/DiskCleaner/issues)
+- **Bug 报告**：[提交 Issue](https://github.com/don2ccc/DiskCleaner/issues)
 - **功能建议**：欢迎在 Issues 中讨论
 - **联系作者**：[YOUR_EMAIL]
 
