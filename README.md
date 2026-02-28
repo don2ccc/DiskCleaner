@@ -81,7 +81,7 @@ AI 分析结果示例：
 
 ### 方式 1：exe 版本（推荐，无需 Python）
 
-1. 前往 [Releases](https://github.com/YOUR_USERNAME/DiskCleaner/releases) 页面
+1. 前往 [Releases](https://github.com/don2ccc/DiskCleaner/releases) 页面
 2. 下载 `DiskCleaner.exe`
 3. 双击运行，立即开始
 
